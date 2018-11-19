@@ -2916,7 +2916,11 @@ input.hs-button.primary.large{
 }
 
 .top-page-title {
+<<<<<<< HEAD
   background: url(../img/pats-pics/patricio_carrasco_background.jpg) no-repeat top center;
+=======
+  background: url(../img/students/TS-screenshot2.png) no-repeat top center;
+>>>>>>> origin/joeelo
   background-size: 100% 100%;
   margin-bottom: 100px;
   text-align: center;
